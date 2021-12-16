@@ -1,4 +1,6 @@
-### Hi there 👋
+![wafflebanner](https://user-images.githubusercontent.com/68536094/146288604-b4b378ce-4cde-494c-b81a-5f6d3377c66d.jpg)
+
+
 
 <!--
 **soapiestwaffles/soapiestwaffles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
