@@ -1,13 +1,14 @@
+![](https://komarev.com/ghpvc/?username=soapiestwaffles&color=blueviolet)
+
 ![wafflebanner](https://user-images.githubusercontent.com/68536094/146288604-b4b378ce-4cde-494c-b81a-5f6d3377c66d.jpg)
 
 ---
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=soapiestwaffles&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+<p align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=soapiestwaffles&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
+</p>
 
 ---
-
-![](https://komarev.com/ghpvc/?username=soapiestwaffles&color=blueviolet)
-
 
 <!--
 **soapiestwaffles/soapiestwaffles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
